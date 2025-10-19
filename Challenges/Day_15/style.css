@@ -7,7 +7,7 @@ body {
 }
 
 span {
-  color: white;
+  color: black;
   animation: animate 3s linear infinite;
 }
 
